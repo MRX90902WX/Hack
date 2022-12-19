@@ -1,8 +1,6 @@
 # Hack
 Esta script es para enviarle a la victima el archivo php.sh que se encuentra en este repositorio , ya que la script es un backdoor php que esta configurado para el archivo index.php , por eso tienen que crear el archivo index desde el repositorio PHPloit ya que el index.php tambien se le enviara a la victima..
 
-Este script es para enviarle a la victima el archivo php.sh que se encuentra en este repositorio , ya que la script es un backdoor php que esta configurado para el archivo index.php , por eso tienen que crear el archivo index desde el repositorio PHPloit ya que el index.php tambien se le enviara a la victima..
-
 @VALIDO SOLO PARA TERMUX
 desde el atacante 
 clonar los dos repositorios
