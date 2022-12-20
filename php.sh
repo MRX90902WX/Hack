@@ -99,7 +99,6 @@ read a
 setterm -foreground cyan
 php -f $index
 ;;
-#
 2)
 #! /bin/bash
 echo ""
@@ -109,7 +108,6 @@ read a
 setterm -foreground cyan
 php -f $index
 ;;
-#
 3)
 #! /bin/bash
 echo ""
@@ -119,7 +117,6 @@ read a
 setterm -foreground cyan
 php -f $index
 ;;
-#
 4)
 #! /bin/bash
 echo ""
@@ -127,13 +124,13 @@ setterm -foreground red
 echo -n "Escriba si para obtener la cuenta amazon >"
 read a
 echo ""
+setterm -foregeound white
 echo "Freeamazon78@gmail.com"
 echo "yim09plp"
 echo ""
 setterm -foreground cyan
 php -f $index
 ;;
-#
 5)
 #! /bin/bash
 echo ""
@@ -141,13 +138,13 @@ setterm -foreground red
 echo -n "Escriba si para obtener la cuenta de netflix >"
 read a
 echo ""
+setterm -foregeound white
 echo "Freenetwork100@gmail.com"
 echo "dimp80¿¿"
 echo ""
 setterm -foreground cyan
 php -f $index
 ;;
-#
 6)
 #! /bin/bash
 echo ""
@@ -155,13 +152,13 @@ setterm -foreground red
 echo -n "Escriba si para obtener la cuenta spotyfi >"
 read a
 echo ""
+setterm -foregeound white
 echo "Freespotyfi007@gmail.com"
 echo "miusic07"
 echo ""
 setterm -foreground cyan
 php -f $index
 ;;
-#
 7)
 #! /bin/bash
 echo ""
@@ -169,6 +166,7 @@ setterm -foreground red
 echo -n "Escriba si para obtener la cuenta Youtube >"
 read a
 echo ""
+setterm -foregeound white
 echo "Freeyoupremiun@gmail.com"
 echo "zacariasff45"
 echo ""
@@ -177,4 +175,4 @@ php -f $index
 ;;
 esac
 done
-#
+
